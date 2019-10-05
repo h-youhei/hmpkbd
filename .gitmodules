@@ -1,0 +1,15 @@
+[submodule "pcb/lib/Keebio-Parts.pretty"]
+	path = pcb/lib/Keebio-Parts.pretty
+	url = git@github.com:keebio/Keebio-Parts.pretty.git
+[submodule "pcb/lib/kicad-MJ-4PP-9"]
+	path = pcb/lib/kicad-MJ-4PP-9
+	url = git@github.com:yskoht/kicad-MJ-4PP-9.git
+[submodule "pcb/lib/keyboard_parts.pretty"]
+	path = pcb/lib/keyboard_parts.pretty
+	url = git@github.com:colemarkham/keyboard_parts.pretty.git
+[submodule "pcb/lib/SparkFun-KiCad-Libraries"]
+	path = pcb/lib/SparkFun-KiCad-Libraries
+	url = git@github.com:sparkfun/SparkFun-KiCad-Libraries.git
+[submodule "pcb/lib/kicad_lib_tmk"]
+	path = pcb/lib/kicad_lib_tmk
+	url = git@github.com:tmk/kicad_lib_tmk.git
