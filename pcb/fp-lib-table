@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Boards)(type KiCad)(uri ${KIPRJMOD}/lib/SparkFun-KiCad-Libraries/Footprints/Boards.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/lib/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/lib/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name MJ-4PP-9)(type KiCad)(uri ${KIPRJMOD}/lib/kicad-MJ-4PP-9/MJ-4PP-9.pretty)(options "")(descr ""))
+  (lib (name hmpskbd)(type KiCad)(uri ${KIPRJMOD}/hmpskbd.pretty)(options "")(descr ""))
+)
